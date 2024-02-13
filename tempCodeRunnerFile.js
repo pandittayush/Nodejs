@@ -6,7 +6,6 @@ const subject = Array('Javascript','nodejs', 'ReactJs');
 // console.log(arr1.concat(arr2,arr3));
 
 
-
 // let number = [ 6 ,4 ,8,2,7,8,10,1010,100,'hello']
 
 
