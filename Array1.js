@@ -20,4 +20,5 @@ var items = [21,4,35,33,13,];
 //     return a-b
 // }))
 console.log(items.sort((a,b)=>b-a));
+
 //i-a for decending order; and versa;
